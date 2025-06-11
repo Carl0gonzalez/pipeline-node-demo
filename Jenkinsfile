@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage('Clonar') {
       steps {
-        git 'https://github.com/tu_usuario/pipeline-node-demo.git'
+        git 'https://github.com/brayandiazc/pipeline-node-demo.git'
       }
     }
     stage('Instalar dependencias') {
