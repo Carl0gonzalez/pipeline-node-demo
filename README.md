@@ -1,22 +1,23 @@
-# 🔄 pipeline-node-demo
+# pipeline-node-demo
 
-Demo de **pipeline para proyectos Node.js**, pensado para mostrar automatización básica de pruebas o integración continua.
+Repositorio público del perfil **Carl0gonzalez**, documentado para dejar un punto de entrada más claro sobre su propósito y contenido.
 
-![Node.js](https://img.shields.io/badge/Node.js-pipeline-green?logo=node.js)
+---
 
-## Descripción
+## 📌 Objetivo
 
-El repositorio está orientado a servir como ejemplo pequeño de workflow sobre código JavaScript, útil para validación continua y prácticas de CI.
+Entregar una descripción breve y útil del repositorio para facilitar su revisión y mantenimiento.
 
-## Objetivo
+## 📁 Revisión recomendada
 
-Tener una base simple y didáctica para ensayar pipelines automatizados en proyectos Node.
+Clona el repositorio y revisa su estructura interna para identificar el flujo técnico, académico o experimental correspondiente.
 
-## Uso
+```bash
+git clone git@github.com:Carl0gonzalez/pipeline-node-demo.git
+cd pipeline-node-demo
+```
 
-Instala dependencias y ejecuta el flujo definido en `package.json` o en el workflow correspondiente.
-
-## Autor
+## 👤 Autor
 
 **Carlo González**
 
